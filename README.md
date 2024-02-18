@@ -9,7 +9,7 @@ This repository hosts a Python-based analysis focused on identifying materials t
 - **Material Identification**: Uses Akaike Information Criterion (AIC) to select optimal decomposition ranks and identify the unknown material by comparing thermal properties.
 
 ## Dataset
-The `heatT.mat` file contains three tensors:
+The `heatTransfer.mat` file contains three tensors:
 1. Heat transfer in Material 1
 2. Heat transfer in Material 2
 3. An unknown material undergoing heat transfer
